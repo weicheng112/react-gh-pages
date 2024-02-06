@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+
+/* If you have a profile image, you can style it like so */
+.App-profile-image {
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+/* Style your list of skills */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
